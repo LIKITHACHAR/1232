@@ -1,0 +1,27 @@
+def bubble_sort(numbers):
+  """
+  Sort a list of numbers using Bubble Sort algorithm.
+
+  Args:
+    numbers: A list of numbers.
+
+  Returns:
+    A sorted list of numbers.
+  """
+
+  n = len(numbers)
+
+  for i in range(n - 1):
+    for j in range(n - i - 1):
+      if numbers[j] > numbers[j + 1]:
+        numbers[j], numbers[j + 1] = numbers[j + 1], numbers[j]
+
+  return numbers
+
+
+if __name__ == "__main__":
+  numbers = [55, 25, 15, 40, 60, 35, 17, 65, 75, 10]
+
+  sorted_numbers = bubble_sort(numbers)
+
+  print(sorted_numbers)
