@@ -1,0 +1,43 @@
+
+	<AzVpnProfile xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/">
+		<any xmlns:d2p1="http://schemas.datacontract.org/2004/07/System.Xml" i:nil="true"/>
+		<clientauth>
+			<aad>
+				<audience>41b23e61-6c1e-4545-b367-cd054e0ed4b4</audience>
+				<cachesigninuser>true</cachesigninuser>
+				<enablegrouptoken>false</enablegrouptoken>
+				<issuer>https://sts.windows.net/fa78cd0b-784c-4402-b34b-38447c4bcbce/</issuer>
+				<tenant>https://login.microsoftonline.com/fa78cd0b-784c-4402-b34b-38447c4bcbce/</tenant>
+			</aad>
+			<cert i:nil="true"/>
+			<type>aad</type>
+			<usernamepass i:nil="true"/>
+		</clientauth>
+		<clientconfig i:nil="true"/>
+		<name>APAC</name>
+		<protocolconfig>
+			<sslprotocolConfig>
+				<transportprotocol>tcp</transportprotocol>
+			</sslprotocolConfig>
+		</protocolconfig>
+		<serverlist>
+			<ServerEntry>
+				<displayname i:nil="true"/>
+				<fqdn>wan.g5xvrikyrmfy85vy9emwwbhrb.vpn.azure.com</fqdn>
+			</ServerEntry>
+		</serverlist>
+		<servervalidation>
+			<Cert>
+				<hash>DF3C24F9BFD666761B268073FE06D1CC8D4F82A4</hash>
+				<issuer i:nil="true"/>
+			</Cert>
+			<serversecret>73dbf5c942513f4f4653c3794021cd4f2519f43898a74116da281ff3a1df6ef7b05b57d1c045708a947d0ec06cd20c751a58eeec5f4aca36adbc05ba5486e804ac529f16344fda45e6d394e1c224dbc36e807f96fa96d6fec5e2767aa883d84b0c80546e88e673027bf781cc219e48d1e35651ee91e1f159087151281fb595de3437f0d1226cd6f25a91957f49629aa36989faad8a52e8833c93e470a660df69ad981c1125c583be3b7f60aeaa52ff543b8c6123c1084c32afa9a2d8bd952615d0f06ed9ad072bbf9db436813ab9a986468d6bf090b5acbf461c24608ccd30c2b7474047fca484229cf605b661602ea2589425a7e4eb830d1c18e752ed4b83ec</serversecret>
+			<type>cert</type>
+		</servervalidation>
+		<version>1</version>
+		<clientconfig>
+			<dnssuffixes>
+				<dnssuffix>.itgroot.net</dnssuffix>
+			</dnssuffixes>
+		</clientconfig>
+	</AzVpnProfile>
