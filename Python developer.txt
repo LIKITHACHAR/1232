@@ -1,0 +1,42 @@
+Title: Module Lead/Sr Developer , Python
+
+Location: Bangalore / Mumbai / Chennai
+
+Department: Technology
+
+Vacancy Type: Permanent
+ 
+
+Mode: Hybrid
+
+Job Shift: 12PM IST – 9PM IST
+
+Intro:
+
+The Opportunity: We are seeking a highly motivated and skilled Mid-Senior Python Developer to join our agile technology team. This is a critical role for an individual who thrives in an environment with ambiguity, can work with minimal direction, and is passionate about building robust, scalable, and high-performance solutions for the financial domain. You will play a pivotal role in developing and enhancing our core investment and operational platforms, directly impacting our business outcomes.
+
+Some of the things you’ll be doing:
+
+Design, develop, and maintain high-quality, scalable, and secure Python-based applications and microservices, with a strong focus on backend development.
+Build and enhance web applications using modern Python frameworks such as Flask, Django, or FastAPI, ensuring optimal performance and user experience.
+Collaborate closely with quantitative analysts, portfolio managers, traders, and other business stakeholders to understand requirements, translate them into technical specifications, and deliver impactful solutions.
+Integrate various internal and external financial data sources and APIs (e.g., market data, portfolio data, risk analytics providers).
+Develop robust data processing pipelines (ETL/ELT) for financial data, ensuring data integrity, accuracy, and efficient flow.
+Contribute to the entire software development lifecycle, from architectural design and coding to testing, deployment, and ongoing support.
+Implement best practices for code quality, security, performance optimization, and maintainability.
+Troubleshoot, debug, and resolve complex technical issues in a timely manner.
+Actively participate in code reviews, design discussions, and contribute to the continuous improvement of our development processes and technical stack.
+Mentor junior developers and share knowledge within the team.
+Demonstrate strong ownership and accountability for assigned projects, working effectively with minimal supervision.
+What technical skills, experience, and qualifications do you need?
+
+Bachelor's degree in Computer Science, Engineering, Mathematics, or a related field.
+Minimum of 8+ years of professional experience in software development, with at least a couple of years of hands-on experience in Python development.
+At least 3+ Proven experience in building Python web applications using frameworks such as Flask, Django, or FastAPI.
+Solid understanding of relational and/or NoSQL databases (e.g., PostgreSQL, MySQL, SQL Server, MongoDB) and proficiency in SQL.
+Experience with RESTful API design and development.
+Proficiency with version control systems, particularly Git.
+Strong understanding of software design principles, data structures, and algorithms.
+Demonstrated ability to work effectively in a fast-paced, dynamic environment with a high degree of ambiguity and autonomy.
+Highly motivated, self-starter with excellent problem-solving and analytical skills.
+Excellent communication and interpersonal skills, with the ability to articulate complex technical concepts to non-technical stakeholders.
